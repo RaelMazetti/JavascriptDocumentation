@@ -8,4 +8,4 @@ for (let Value in Array) {
   // SimpleArray[Value]: String
 
   console.log(Array[Value]);
-};
+}; 
