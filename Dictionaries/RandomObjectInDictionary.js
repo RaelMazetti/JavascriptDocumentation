@@ -6,4 +6,4 @@ let Dictionary = {
 };
 let NumberDictionary = Math.floor(Math.random() * Dictionary.length);
 
-console.log(Dictionary[NumberDictionary]);
+console.log(Dictionary[NumberDictionary]); 
